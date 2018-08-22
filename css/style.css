@@ -105,6 +105,7 @@ header a:hover {
   padding: 15px;
   color: #fff;
   background: #35424a;
+  position: static;
 }
 
 #contact h1 {
