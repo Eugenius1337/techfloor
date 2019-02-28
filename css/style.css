@@ -85,7 +85,7 @@ header a:hover {
 /* Showcase */
 #showcase {
   min-height: 400px;
-  background: url("../img/showcase.jpg") no-repeat 0 -400px;
+  background: url('../img/showcase.jpg') no-repeat 0 -400px;
   text-align: center;
   color: #000;
 }
@@ -198,10 +198,15 @@ footer {
     width: 100%;
   }
 
-  #newsletter form input[type="email"],
+  #newsletter form input[type='email'],
   .quote input,
   .quote textarea {
     width: 100%;
     margin-bottom: 5px;
   }
+}
+
+/* Gallery */
+.gallery {
+  margin: 10px 50px;
 }
